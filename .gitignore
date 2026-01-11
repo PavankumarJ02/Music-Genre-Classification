@@ -1,0 +1,6 @@
+dataset/
+uploads/
+.venv/
+venv/
+__pycache__/
+*.pyc
